@@ -55,6 +55,8 @@ public class Basics {
 		Assert.assertEquals(actualAddress,newAddress);
 		
 		System.out.println("abcd added from git x");
+		
+		System.out.println("efgn added from git y");
 	}
 
 }
